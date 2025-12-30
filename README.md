@@ -8,6 +8,12 @@ Traditional video games rely on keyboard, mouse, or touch controls for interacti
 
 The aim of this project is to develop a modern version of the classic Breakout game that allows players to control the paddle using facial movement, specifically lip or head tracking, via computer vision techniques.
 
+## 📽️ Demo
+
+https://github.com/user-attachments/assets/e8ffc90a-e013-4560-91db-fe984cae0996
+
+
+
 ## 🏆 Target Audience
 
 - Gamers looking for innovative and interactive gameplay experiences.
